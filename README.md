@@ -1,6 +1,6 @@
 # JSArrays
 
-Coding time!
+<!-- Coding time!
 Create all these programs in a generic fashion: the program output should reflect any update in the array's content.
 Musketeers
 Write a program that:
@@ -15,4 +15,4 @@ Write a program that creates the following array, then calculates and shows the 
 const values = [3, 11, 7, 2, 9, 10];
 Array maximum
 Write a program that creates the following array, then calculates and shows the array's maximum value.
-const values = [3, 11, 7, 2, 9, 10];
+const values = [3, 11, 7, 2, 9, 10]; -->
